@@ -1,0 +1,15 @@
+C:\Documents and Settings\MMT\Desktop\UniConversion Amyanmar\UniConversion\bin\Debug\UniConversion.dll
+C:\Documents and Settings\MMT\Desktop\UniConversion Amyanmar\UniConversion\bin\Debug\UniConversion.pdb
+C:\Documents and Settings\MMT\Desktop\UniConversion Amyanmar\UniConversion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MMT\Desktop\UniConversion Amyanmar\UniConversion\obj\Debug\UniConversion.dll
+C:\Documents and Settings\MMT\Desktop\UniConversion Amyanmar\UniConversion\obj\Debug\UniConversion.pdb
+C:\Documents and Settings\MMT\Desktop\UCA\UniConversion\bin\Debug\UniConversion.dll
+C:\Documents and Settings\MMT\Desktop\UCA\UniConversion\bin\Debug\UniConversion.pdb
+C:\Documents and Settings\MMT\Desktop\UCA\UniConversion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MMT\Desktop\UCA\UniConversion\obj\Debug\UniConversion.dll
+C:\Documents and Settings\MMT\Desktop\UCA\UniConversion\obj\Debug\UniConversion.pdb
+D:\share4u\moh\uniconversionAmyanmar(latest)\UniConversion\bin\Debug\UniConversion.dll
+D:\share4u\moh\uniconversionAmyanmar(latest)\UniConversion\bin\Debug\UniConversion.pdb
+D:\share4u\moh\uniconversionAmyanmar(latest)\UniConversion\obj\Debug\ResolveAssemblyReference.cache
+D:\share4u\moh\uniconversionAmyanmar(latest)\UniConversion\obj\Debug\UniConversion.dll
+D:\share4u\moh\uniconversionAmyanmar(latest)\UniConversion\obj\Debug\UniConversion.pdb
